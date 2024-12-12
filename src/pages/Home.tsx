@@ -24,7 +24,7 @@ const Container = styled.div`
     font-size: 4em;
     text-align: center;
     font-family: "CormorantGaramond-BoldItalic", Arial, sans-serif;
-    background: linear-gradient(45deg, #8b0000, #b22222, #006400);
+    background: linear-gradient(45deg, #8b4513, #d2b48c, #deb887);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
